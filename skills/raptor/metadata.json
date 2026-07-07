@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "organization": "olliheadley",
+  "date": "July 2026",
+  "abstract": "Refactor by subtraction. The SpaceX five step algorithm (question requirements, delete, simplify, accelerate, automate) applied to code, so a messy codebase gets to Raptor 3: fewer, deeper modules and only the seams that earn their place."
+}
