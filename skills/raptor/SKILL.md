@@ -1,6 +1,6 @@
 ---
 name: raptor
-description: Refactor by subtraction, using the SpaceX 5-step algorithm (question requirements, delete, simplify, accelerate, automate) to take a codebase from Raptor 1 to Raptor 3: fewer, deeper modules and only the seams that earn their place. Use when simplifying architecture, removing dead code or overhead, cutting bloat, reducing complexity, or when the goal is to delete before adding. Improves architecture by removing, not adding.
+description: "Refactor by subtraction, using the SpaceX 5-step algorithm (question requirements, delete, simplify, accelerate, automate) to take a codebase from Raptor 1 to Raptor 3, meaning fewer and deeper modules with only the seams that earn their place. Use when simplifying architecture, removing dead code or overhead, cutting bloat, reducing complexity, or when the goal is to delete before adding. Improves architecture by removing, not adding."
 license: MIT
 metadata:
   author: olliheadley
