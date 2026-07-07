@@ -2,7 +2,9 @@
 
 A Claude skill for refactoring by subtraction. It takes the way SpaceX simplifies a rocket engine and points it at code.
 
-If you have seen the photo of Raptor 1, 2 and 3 lined up next to each other, you already get the idea. Raptor 1 is buried in wires and pipes. Raptor 3 is almost smooth, because every part that could be removed or folded into another part was. The rule behind it is short: the best part is no part. What is not there cannot break.
+![SpaceX Raptor 1, 2 and 3 engines side by side, getting visibly simpler from left to right](assets/raptor-engines.jpg)
+
+That is Raptor 1, 2 and 3 above, left to right. Raptor 1 is buried in wires and pipes. Raptor 3 is almost smooth, because every part that could be removed or folded into another part was. The rule behind it is short: the best part is no part. What is not there cannot break.
 
 Most refactoring advice tells you to add structure. This skill tells you to take it away first, and only add a little back for the small amount that survives.
 
